@@ -17,9 +17,15 @@ The analysis was conducted using multispectral satellite imagery and training da
 ## Tools & Technologies
 - Google Earth Engine
 - GIS & Remote Sensing
-- Satellite Imagery
+- Satellite Imagery(sentinel-2)
 - Spatial Analysis
 - Machine Learning Classification
+
+## Workflow Methodology
+The project workflow involved preliminary preprocessing and scripting experiments in Google Colab, including raster preparation and geospatial data handling. Shapefile extraction and preprocessing were conducted in QGIS before integrating the datasets into Google Earth Engine for land use classification.
+
+Due to challenges encountered during raster merging and project time constraints, the final classification workflow and analysis were completed using Google Earth Engine and QGIS.
+
 
 ## Outputs
 - Classified land use maps
