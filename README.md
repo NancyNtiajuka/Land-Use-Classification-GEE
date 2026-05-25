@@ -34,8 +34,6 @@ Due to challenges encountered during raster merging and project time constraints
 - Environmental interpretation
 
 ## Project Report
-## Project Report
-
 A detailed methodology and analysis report for the Abia State land use classification project is included in this repository.
 
 Key components include:
