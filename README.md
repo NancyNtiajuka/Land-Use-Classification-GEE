@@ -44,5 +44,14 @@ Key components include:
 - Land cover interpretation
 - Spatial analysis outputs
 
+## Repository Contents
+This repository contains:
+
+- Google Earth Engine classification script
+- Project methodology report
+- AOI boundary visualization
+- Training sample outputs
+- Final land use classification maps
+
 ## Author
-Nancy Ntiajuka – Geoinformatics & GIS Researcher
+Nancy Ntiajuka – Geoinformatics and GIS Researcher specializing in Remote Sensing, Geospatial Programming, and Machine Learning Applications
