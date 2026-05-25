@@ -33,5 +33,18 @@ Due to challenges encountered during raster merging and project time constraints
 - Training sample datasets
 - Environmental interpretation
 
+## Project Report
+## Project Report
+
+A detailed methodology and analysis report for the Abia State land use classification project is included in this repository.
+
+Key components include:
+- Study area definition
+- Sentinel-2 preprocessing
+- Training sample generation
+- Supervised classification
+- Land cover interpretation
+- Spatial analysis outputs
+
 ## Author
 Nancy Ntiajuka – Geoinformatics & GIS Researcher
